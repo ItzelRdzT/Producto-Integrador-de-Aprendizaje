@@ -1,0 +1,19 @@
+11/10/2024 21:23;34 En este script analizaremos los archivos de la carpeta donde nos encontramos, usando un API llamada VirusTotal
+11/10/2024 21:23;34 Script creado por el equipo 8
+11/10/2024 21:23;34 El archivo debe estar en la misma carpeta que este script.
+11/10/2024 21:23;50 Archivo ingresado: API_ABUSE.py
+11/10/2024 21:23;50 Hash del archivo: 302ce8a17bc245092b6e3ea4f0462cfb
+11/10/2024 21:23;50 Respuesta de la API: {'results': {'resource': '302ce8a17bc245092b6e3ea4f0462cfb', 'response_code': 0, 'verbose_msg': 'The requested resource is not among the finished, queued or pending scans'}, 'response_code': 200}
+11/10/2024 21:23;50 El archivo es seguro.
+11/10/2024 21:23;59 En este script analizaremos los archivos de la carpeta donde nos encontramos, usando un API llamada VirusTotal
+11/10/2024 21:23;59 Script creado por el equipo 8
+11/10/2024 21:23;59 El archivo debe estar en la misma carpeta que este script.
+11/10/2024 21:24;03 Archivo ingresado: API_ABUSE
+11/10/2024 21:24;03 El programa no ha podido ejecutarse. Error: [Errno 2] No such file or directory: 'API_ABUSE'
+11/11/2024 17:41;35 En este script analizaremos los archivos de la carpeta donde nos encontramos, usando un API llamada VirusTotal
+11/11/2024 17:41;35 Script creado por el equipo 8
+11/11/2024 17:41;35 El archivo debe estar en la misma carpeta que este script.
+11/11/2024 17:42;01 Archivo ingresado: act2_a
+11/11/2024 17:42;01 El archivo 'act2_a' no existe en la carpeta actual.
+11/11/2024 18:41:54 No se encontró el archivo usuarios.txt
+11/11/2024 18:41:54 No se encontró el archivo contraseñas.txt

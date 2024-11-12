@@ -1,0 +1,15 @@
+El script llamado Escaneo de red muestra los dispositivos conectados a la red wifi que estamos utilizando, mostrándonos su dirección MAC y el fabricante del dispositivo.
+para poder saber toda esta información primero importamos el modulo subprocess nos ayuda para ejecutar comandos del sistema operativo y poder capturar las salidas de esos comandos.
+El modulo manuf nos sirve para poder analizar las direcciones MAC y obtener información acerca de los dispositivos encontrados, por ultimo el modulo logging nos ayuda a registrar mensajes de distintos niveles para distintas cosas, por ejemplo este mensaje de aviso. 
+
+logging.basicConfig(...): Configura el registro de mensajes (logging) con nivel de depuración y formato específico.
+
+ping_host(ip): Envía un ping a la IP con el fin de que la IP lo reciba y lo regrese para saber si .
+
+get_mac(ip): Usa el comando arp (Lista todas las direcciones IP y sus correspondientes direcciones MAC que el dispositivo conoce.) para obtener la dirección MAC asociada a una IP.
+
+get_manufacturer(mac): Utiliza manuf para obtener el fabricante de un dispositivo dado su MAC.
+
+net_scann(ip_base, start, end): Escanea un rango de IPs enviando pings, obtiene la MAC y el fabricante, y almacena la información de hosts vivos.
+
+if name == "main":: Parte del código que se ejecuta si el script se ejecuta directamente. Solicita la base de la IP y el rango al usuario, valida las entradas, y llama a net_scann para mostrar los hosts vivos encontrados.
