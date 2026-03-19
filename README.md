@@ -9,13 +9,13 @@ Entregable 3
 ```
 Estas carpetas tienen distintos scripts en distintos lenguajes
 En nuestro primer entregable usamos codigo basado en `Powershell`
-En nuestro segundo entregable usamos el codigo basado en `Bash`, donde utilizamos una maquina virtual para ejecutarlos
+En nuestro segundo entregable usamos el codigo basado en `Bash`, donde utilizamos una maquina virtual para ejecutarlos, por ultimo 
 En nuestro tercer entregable utilizamos codigo basado en `Python`
 
 El menu principal esta compuesto por los menus de los distintos entregables y se encuentra como `Menu_Principal.sh` y fue creado en Powershell.
 
 Los archivos de `Bash` no se pudieron ejecutar en el menu principal ya que tuvimos varios problemas con el sistema operativo de las maquinas virtuales. 
 
-Esperemos que estos codigos les pueda ayudar a la gente de TI enfocada en ciberseguridad, nosotros somos estudiantes de la `Universidad Autonoma de Nuevo Leon` 
-de la `Facultad de Ciencias Fisico Matematicas`, estudiamos la carrera de `Licenciatura en Seguridad en Tecnologias de la Informacion`. 
+Esperemos que estos codigos les pueda ayudar en la comprensión a las personas que swe quieran especializar en alguna rama de la Ciberseguridad, nosotros somos estudiantes de la `Universidad Autonoma de Nuevo Leon` 
+de la `Facultad de Ciencias Fisico Matematicas`, estudiantes de tercer semestre de la carrera de `Licenciatura en Seguridad en Tecnologias de la Informacion`. 
 
